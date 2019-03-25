@@ -53,7 +53,8 @@ What if we are trying to fit binary data or count data instead of continuous dat
 
 <iframe src="https://giphy.com/embed/l0NhZ0aUSE8fXag12" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><small><a href="https://giphy.com/gifs/omaze-chris-pratt-dinosaurs-l0NhZ0aUSE8fXag12">via GIPHY</a></small>
 
-## If we were to try to plot binary data...
+## Binary Data
+
 ```{r ab_plot, warning=FALSE, echo=FALSE}
 ab_test <- read.csv("experiment.csv")
 library(ggplot2)
