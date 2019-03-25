@@ -100,12 +100,12 @@ Acceptable data could be:
 ## Logistic Regression: Experimental Design
 <div style="float: left; width: 48%;">
 <img src="docs/control.jpg" alt="Shopify control version of website with purple Start free trial button" >
-<p>Control Version</p>
+<small>Control Version</small>
 </div>
 
 <div style="float: right; width: 48%;>
 <img src="docs/test.jpg" alt="Shopify control version of website with purple Start free trial button">
-<p>Test Version</p>
+<small>Test Version</small>
 </div>
 
 <b>Variables:</b>
